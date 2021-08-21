@@ -1,1 +1,0 @@
-Basketball workout tracker for Slam Dunks Hackathon Summer 2021.
